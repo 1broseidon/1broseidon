@@ -1,4 +1,4 @@
-# Hey, I'm [Your Name] 👋
+# Hey, I'm George 👋
 
 I'm a Principal Customer Success Engineer who builds opinionated side-projects when I'm not helping enterprise customers. My sweet spot is where secure architecture, developer ergonomics, and clean UI intersect. Currently building Proximux (an identity experiment) with a Go backend and running various experiments in my home lab.
 
