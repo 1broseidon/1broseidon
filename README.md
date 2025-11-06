@@ -29,9 +29,9 @@
   │   └── bash/         → deployment & configuration
   │
   └── current_projects/
-      ├── proximux/             [████████░░] 80%
-      ├── homelab_security/     [██████████] production
-      └── threat_modeling/      [███████░░░] ongoing
+      ├── promptext/             [████████░░] 80%
+      ├── hallmonitor/           [███░░░░░░░] 30% *NEW*
+      └── mcp and AI tooling/    [███████░░░] ongoing
 ```
 
   ## Philosophy
