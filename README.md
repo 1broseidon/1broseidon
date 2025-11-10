@@ -10,38 +10,15 @@
 
   When I'm not threat modeling or automating security workflows, you'll find me chasing a toddler around
   the house (which doubles as my cardio).
+
   ```
-~/security_focus
-  ├── identity/
-  │   ├── iam/          → access management, zero-trust
-  │   ├── mfa/          → multi-factor authentication
-  │   └── sso/          → single sign-on implementations
-  │
-  ├── infrastructure/
-  │   ├── aws/          → cloud security architecture
-  │   ├── terraform/    → secure infrastructure as code
-  │   ├── docker/       → container security & isolation
-  │   └── monitoring/   → threat detection & analysis
-  │
-  ├── automation/
-  │   ├── go/           → security tooling, CLI utilities
-  │   ├── python/       → threat analysis, data processing
-  │   └── bash/         → deployment & configuration
-  │
-  └── current_projects/
+~/current_projects/
       ├── promptext/             [████████░░] 80%
       ├── hallmonitor/           [███░░░░░░░] 30% *NEW*
       └── mcp and AI tooling/    [███████░░░] ongoing
 ```
 
-  ## Philosophy
-
-  Security solutions should be invisible to users but impenetrable to threats. I believe in:
-
-  - **Defense in depth** → layered security controls
-  - **Zero trust architecture** → verify everything, trust nothing
-  - **Automated security** → reduce human error vectors
-  - **Practical implementation** → security that people actually use
+  *"The best security is the kind users never notice."*
 
   ## Connect
 
@@ -49,6 +26,4 @@
   - 💼 LinkedIn: [georgedikeakos](https://linkedin.com/in/georgedikeakos)
   - 🎯 Focus: Enterprise Security, Identity Management, Cloud Architecture
 
-  ---
-
-  *"The best security is the kind users never notice."*
+  
