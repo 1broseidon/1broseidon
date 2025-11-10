@@ -9,7 +9,7 @@
    and practical implementation.
 
   When I'm not threat modeling or automating security workflows, you'll find me chasing a toddler around
-  the house (which doubles as my cardio) or playing shows at NYC venues.
+  the house (which doubles as my cardio).
   ```
 ~/security_focus
   ├── identity/
