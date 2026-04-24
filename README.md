@@ -14,8 +14,8 @@
   ```
 ~/current_projects/
       ├── cymbal/             [████████░░] 80%
-      ├── brainfile/           [████████░░] 80% *NEW*
-      └── mcp and AI tooling/    [███████░░░] ongoing
+      ├── brainfile/           [████████░░] 80%
+      └── ketch/    [█████░░░░░] 50%
 ```
 
   *"The best security is the kind users never notice."*
