@@ -13,8 +13,8 @@
 
   ```
 ~/current_projects/
-      ├── promptext/             [████████░░] 80%
-      ├── hallmonitor/           [███░░░░░░░] 30% *NEW*
+      ├── cymbal/             [████████░░] 80%
+      ├── brainfile/           [████████░░] 80% *NEW*
       └── mcp and AI tooling/    [███████░░░] ongoing
 ```
 
