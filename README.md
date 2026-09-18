@@ -17,6 +17,5 @@
 
   - 🔗 Portfolio: [dikeakos.me](https://dikeakos.me)
   - 💼 LinkedIn: [georgedikeakos](https://linkedin.com/in/georgedikeakos)
-  - 🎯 Focus: Enterprise Security, Identity Management, Cloud Architecture
 
   
