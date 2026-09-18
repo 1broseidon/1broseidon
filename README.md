@@ -11,13 +11,6 @@
   When I'm not threat modeling or automating security workflows, you'll find me chasing a toddler around
   the house (which doubles as my cardio).
 
-  ```
-~/current_projects/
-      ├── cymbal/             [████████░░] 80%
-      ├── brainfile/           [████████░░] 80%
-      └── ketch/    [█████░░░░░] 50%
-```
-
   *"The best security is the kind users never notice."*
 
   ## Connect
